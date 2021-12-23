@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_DLLOlusturma", "MCD_DLLOlusturma\MCD_DLLOlusturma.csproj", "{5CD412C1-9784-4B0B-9838-F980FC784DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_DLLTest", "MCD_DLLTest\MCD_DLLTest.csproj", "{C6DA5A33-001E-4044-B925-0A24F902EC84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD412C1-9784-4B0B-9838-F980FC784DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD412C1-9784-4B0B-9838-F980FC784DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD412C1-9784-4B0B-9838-F980FC784DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD412C1-9784-4B0B-9838-F980FC784DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DA5A33-001E-4044-B925-0A24F902EC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DA5A33-001E-4044-B925-0A24F902EC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DA5A33-001E-4044-B925-0A24F902EC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DA5A33-001E-4044-B925-0A24F902EC84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5F944E-94EB-42B2-8EFF-5CE5940AFD2C}
+	EndGlobalSection
+EndGlobal
